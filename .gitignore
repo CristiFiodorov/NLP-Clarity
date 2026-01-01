@@ -1,1 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
 .venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Colab / Drive junk
+.DS_Store
+gdrive/
+drive/
+
+# VS Code / Cursor
+.vscode/
+.cursor/
+
+# Model weights & Large files (downloaded)
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.h5
+results/
+logs/
+wandb/
