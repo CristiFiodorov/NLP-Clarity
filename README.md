@@ -1,6 +1,8 @@
 # NLP-Clarity 🕵️‍♂️🇺🇸
 
-**Competition:** [CodaBench - CLARITY Challenge](https://www.codabench.org/competitions/10879/)
+**Competition:**
+- [Task 1 - Clarity Classification](https://www.codabench.org/competitions/10879/)
+- [Task 2 - Evasion Classification](https://www.codabench.org/competitions/11131/)
 
 | Notebook | Link |
 |----------|------|
