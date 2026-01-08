@@ -6,7 +6,8 @@
 
 | Notebook | Link |
 |----------|------|
-| **01 Data Analysis** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristiFiodorov/NLP-Clarity/blob/main/notebooks/01_data_analysis.ipynb) |
+| **01.1 Data Analysis** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristiFiodorov/NLP-Clarity/blob/main/notebooks/01_data_analysis.ipynb) |
+| **01.2 Data Filtering** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristiFiodorov/NLP-Clarity/blob/main/notebooks/01_2_data_cleaning.ipynb) |
 | **02 Embeddings + XGBoost** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristiFiodorov/NLP-Clarity/blob/main/notebooks/02_embeddings_xgboost.ipynb) |
 | **03 Llama-3.1-8b + LoRA Fine Tuning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristiFiodorov/NLP-Clarity/blob/main/notebooks/03_llama31_8b_alpaca.ipynb) |
 | **04 RoBERTa-base Classifier** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristiFiodorov/NLP-Clarity/blob/main/notebooks/04_roberta_classifier.ipynb) | 
