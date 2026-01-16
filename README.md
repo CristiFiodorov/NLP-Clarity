@@ -1,5 +1,8 @@
 # NLP-Clarity 🕵️‍♂️🇺🇸
 
+[Project Documentation](https://github.com/CristiFiodorov/NLP-Clarity/blob/main/docs/NLP-Clarity.pdf)
+
+
 **Competition:**
 - [Task 1 - Clarity Classification](https://www.codabench.org/competitions/10879/)
 - [Task 2 - Evasion Classification](https://www.codabench.org/competitions/11131/)
